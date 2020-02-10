@@ -1,3 +1,25 @@
+def square_array(numbers)
+  Math.sqrt()
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # def square_array(array)
 #   new_array = []
 #   counter = 0
